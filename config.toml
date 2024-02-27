@@ -1,0 +1,12 @@
+[theme]
+base = "light"
+
+
+[user]
+name="Chuck"
+
+[author]
+name="Chuck Chekuri"
+email="chuck@axiomaticinfo.com"
+
+
